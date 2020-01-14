@@ -6,3 +6,5 @@ git is a free software
 
 + 本地仓库
 + 远程仓库
+
+学习分支管理
